@@ -16,7 +16,7 @@
     "express": "4.17.1",
     "ts-loader": "5.4.5",
     "tslint": "5.20.1",
-    "tslint-config-airbnb": "5.11.1",
+    "tslint-config-airbnb": "5.11.2",
     "tslint-loader": "3.5.4",
     "typescript": "3.2.2",
     "webpack": "4.41.5",
